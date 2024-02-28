@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-28T11:19:32 IST" name="Suite" finished-at="2024-02-28T11:19:38 IST" duration-ms="6497">
+  <suite started-at="2024-02-28T14:17:15 IST" name="Suite" finished-at="2024-02-28T14:17:30 IST" duration-ms="15270">
     <groups>
     </groups>
-    <test started-at="2024-02-28T11:19:32 IST" name="Test" finished-at="2024-02-28T11:19:38 IST" duration-ms="6497">
+    <test started-at="2024-02-28T14:17:15 IST" name="Test" finished-at="2024-02-28T14:17:30 IST" duration-ms="15270">
       <class name="QA.DataDriven.ReadExcel">
-        <test-method signature="fbLogin()[pri:0, instance:QA.DataDriven.ReadExcel@67080771]" started-at="2024-02-28T11:19:32 IST" name="fbLogin" finished-at="2024-02-28T11:19:38 IST" duration-ms="6402" status="PASS">
+        <test-method signature="fbLogin()[pri:0, instance:QA.DataDriven.ReadExcel@67080771]" started-at="2024-02-28T14:17:15 IST" name="fbLogin" finished-at="2024-02-28T14:17:30 IST" duration-ms="15165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fbLogin -->
